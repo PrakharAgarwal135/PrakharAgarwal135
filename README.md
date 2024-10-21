@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone 👋 , I'm Prakhar Agarwal</h1>
-<h3 align="center">A passionate programmer and MERN stack Web Developer from India</h3>
+<h3 >A passionate programmer and MERN stack Web Developer from India</h3>
 
 - 🌱 I’m currently learning **MERN stack Web Development , OOPS(C++)**
 

@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **MERN stack Web Development , OOPS(C++)**
 
 - 📫 Reach me **prakharagarwal135@gmail.com**
+  
+- 🤝 Connect with me : <a href="https://www.linkedin.com/in/prakhar-agarwal-1216a9227/" target="_blank">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

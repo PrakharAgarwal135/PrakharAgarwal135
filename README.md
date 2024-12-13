@@ -1,7 +1,7 @@
 <h1 align="center">Hello Everyone 👋 , I'm Prakhar Agarwal</h1>
 <h3>💫 About Me:</h3>
 
--  I am a passionate programmer with with expertise in **C++**, a strong enthusiasm for **Data Structures and Algorithms (DSA)**.
+-  I am a passionate programmer with expertise in **C++**, a strong enthusiasm for **Data Structures and Algorithms (DSA)**.
 
 -  Honing my skills as a **MERN stack developer**, continuously learning and building projects. 
   
